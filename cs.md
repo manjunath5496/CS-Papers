@@ -258,93 +258,102 @@ high-performance Web applications</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(120).pdf" style="text-decoration:none;">The Design and Implementation of a
 High-Performance Active Network Node</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(121).pdf" style="text-decoration:none;">Clustering clusters: unsupervised machine learning on globular cluster structural parameters</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
+of an Email Pseudonym Server</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(122).pdf" style="text-decoration:none;">Machine and Deep Learning Applied to Galaxy Morphology - A Comparative Study </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(123).pdf" style="text-decoration:none;">Photometric Redshift Analysis using Supervised Learning Algorithms and Deep Learning</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(124).pdf" style="text-decoration:none;">RADYNVERSION: Learning to Invert a Solar Flare Atmosphere with Invertible Neural Networks</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(124).pdf" style="text-decoration:none;">Oort: User-Centric Cloud Storage with Global Queries</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(125).pdf" style="text-decoration:none;">Towards Machine-assisted Meta-Studies: The Hubble Constant</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(125).pdf" style="text-decoration:none;">Peer-to-Peer Communication Across Network Address Translators</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(126).pdf" style="text-decoration:none;">Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery in the Big Data Era</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(126).pdf" style="text-decoration:none;">On the Feasibility of Peer-to-PeerWeb Indexing and Search</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(127).pdf" style="text-decoration:none;">Machine Vision and Deep Learning for Classification of Radio SETI Signals</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(127).pdf" style="text-decoration:none;">Packrat Parsing:
+a Practical Linear-Time Algorithm with Backtracking</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(128).pdf" style="text-decoration:none;">Star Formation Rates for photometric samples of galaxies using machine learning methods</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(128).pdf" style="text-decoration:none;">Packrat Parsing:
+Simple, Powerful, Lazy, Linear Time</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(129).pdf" style="text-decoration:none;">Deep learning detection of transients</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(129).pdf" style="text-decoration:none;">Parsing Expression Grammars:
+A Recognition-Based Syntactic Foundation</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(130).pdf" style="text-decoration:none;">Can a machine learn the outcome of planetary collisions? </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(130).pdf" style="text-decoration:none;">Pastwatch: a Distributed Version Control System </a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(131).pdf" style="text-decoration:none;">Convolutional neural networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(131).pdf" style="text-decoration:none;">Easy Freshness with Pequod Cache Joins</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(132).pdf" style="text-decoration:none;">AGN selection in the AKARI NEP deep field with the fuzzy SVM algorithm</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(133).pdf" style="text-decoration:none;">Galaxy shape measurement with convolutional neural networks</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(134).pdf" style="text-decoration:none;">Optimizing Sparse RFI Prediction using Deep Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(134).pdf" style="text-decoration:none;">Providing Asynchronous File I/O
+for the Plan 9 Operating System</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(135).pdf" style="text-decoration:none;">Rapid Classification of TESS Planet Candidates with Convolutional Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(135).pdf" style="text-decoration:none;">Efficient patch-based auditing for web application vulnerabilities</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(136).pdf" style="text-decoration:none;">Constraining the Thermal Properties of Planetary Surfaces using Machine Learning: Application to Airless Bodies</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(137).pdf" style="text-decoration:none;">Simultaneous calibration of spectro-photometric distances and the Gaia DR2 parallax zero-point offset with deep learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(138).pdf" style="text-decoration:none;">Separating the EoR signal with a convolutional denoising autoencoder: a deep-learning-based method</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(139).pdf" style="text-decoration:none;">The Role of Machine Learning in the Next Decade of Cosmology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(140).pdf" style="text-decoration:none;">Identifying Galaxy Mergers in Observations and Simulations with Deep Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(136).pdf" style="text-decoration:none;">Prolac: a language for protocol compilation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(137).pdf" style="text-decoration:none;">Flexible and Efficient Sharing of Protected Abstractions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(138).pdf" style="text-decoration:none;">Retroactive Auditing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(139).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(140).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications (revised 2014-08-05)</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(141).pdf" style="text-decoration:none;"> Fast likelihood-free cosmology with neural density estimators and active learning</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(142).pdf" style="text-decoration:none;">A Machine Learning Artificial Neural Network Calibration of the Strong-Line Oxygen Abundance</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(143).pdf" style="text-decoration:none;">HexagDLy - Processing hexagonally sampled data with CNNs in PyTorch</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(144).pdf" style="text-decoration:none;">Deterministic and Bayesian Neural Networks for Low-latency Gravitational Wave Parameter Estimation of Binary Black Hole Mergers</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(145).pdf" style="text-decoration:none;">DASH: Deep Learning for the Automated Spectral Classification of Supernovae and their Hosts</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(146).pdf" style="text-decoration:none;">Denoising Gravitational Waves with Enhanced Deep Recurrent Denoising Auto-Encoders</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(141).pdf" style="text-decoration:none;"> Identifying information disclosure in web applications with retroactive auditing</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(142).pdf" style="text-decoration:none;">Optimizing RAM-latency Dominated Applications</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(143).pdf" style="text-decoration:none;">ScaleFS: A Multicore-Scalable File System</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(144).pdf" style="text-decoration:none;">WhanauSIP: A Secure Peer-to-Peer
+Communications Platform</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(145).pdf" style="text-decoration:none;">Scalable Address Spaces Using RCU Balanced Trees</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(146).pdf" style="text-decoration:none;">Intrusion Recovery Using Selective Re-execution</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(147).pdf" style="text-decoration:none;">Efficient Selection of Quasar Candidates Based on Optical and Infrared Photometric Data Using Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(147).pdf" style="text-decoration:none;">Modular Components for Network Address Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(148).pdf" style="text-decoration:none;">Mapping neutron star data to the equation of state using the deep neural network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(148).pdf" style="text-decoration:none;">An Extension-Oriented Compiler</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(149).pdf" style="text-decoration:none;">Classifying the unknown: discovering novel gravitational-wave detector glitches using similarity learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(150).pdf" style="text-decoration:none;">Random Forest identification of the thin disk, thick disk and halo Gaia-DR2 white dwarf population</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
+using an operation log</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(151).pdf" style="text-decoration:none;">The Hubble Sequence at z&sim;0 in the IllustrisTNG simulation with deep learning </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(151).pdf" style="text-decoration:none;">A Software Approach to Unifying Multicore Caches </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(152).pdf" style="text-decoration:none;">Galaxy classification: A machine learning analysis of GAMA catalogue data</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(153).pdf" style="text-decoration:none;">Modeling with the Crowd: Optimizing the Human-Machine Partnership with Zooniverse</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(154).pdf" style="text-decoration:none;">The Galaxy Cluster `Pypeline' for X-ray Temperature Maps: ClusterPyXT</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(152).pdf" style="text-decoration:none;">Self-Certifying File System Implementation for Windows </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(153).pdf" style="text-decoration:none;">Flexible Key Management with SFS Agents</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(154).pdf" style="text-decoration:none;">Access Control Lists for the Self-Certifying
+Filesystem</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(155).pdf" style="text-decoration:none;">Investigating the dark matter signal in the cosmic ray antiproton flux with the machine learning method</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(155).pdf" style="text-decoration:none;">Separating key management from file system security</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(156).pdf" style="text-decoration:none;">Learning the Relationship between Galaxies Spectra and their Star Formation Histories using Convolutional Neural
-Networks and Cosmological Simulations</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(157).pdf" style="text-decoration:none;">Identifying Exoplanets with Deep Learning II: Two New Super-Earths Uncovered by a Neural Network in K2 Data</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(158).pdf" style="text-decoration:none;">Machine learning and the physical sciences</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(156).pdf" style="text-decoration:none;">Concurrency Control for Multi-Processor Event-Driven Systems</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(157).pdf" style="text-decoration:none;">Fast and secure distributed read-only file system</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(158).pdf" style="text-decoration:none;">Shenango: Achieving High CPU Efficiency for
+Latency-sensitive Datacenter Workloads</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(159).pdf" style="text-decoration:none;">Automatic detection of Interplanetary Coronal Mass Ejections from in-situ data: a deep learning approach </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(159).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access
+Control for User Data in Untrusted Clouds </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(160).pdf" style="text-decoration:none;">Accelerated Bayesian inference using deep learning</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(161).pdf" style="text-decoration:none;">Transfer learning for radio galaxy classification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(162).pdf" style="text-decoration:none;">Painting with baryons: augmenting N-body simulations with gas using deep generative models</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(163).pdf" style="text-decoration:none;">Baryon density extraction and isotropy analysis of Cosmic Microwave Background using Deep Learning</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(164).pdf" style="text-decoration:none;">RAPID: Early Classification of Explosive Transients using Deep Learning</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(164).pdf" style="text-decoration:none;">A Measurement Study of Available Bandwidth Estimation Tools</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(165).pdf" style="text-decoration:none;">Stokes inversion based on convolutional neural networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(166).pdf" style="text-decoration:none;">Shaping Asteroid Models Using Genetic Evolution (SAGE)</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(166).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(167).pdf" style="text-decoration:none;">TiK-means: Transformation-infused K-means clustering for skewed groups</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(167).pdf" style="text-decoration:none;">SSL Splitting and Barnraising: Cooperative Caching with Authenticity Guarantees</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(168).pdf" style="text-decoration:none;">Generative deep fields: arbitrarily sized, random synthetic astronomical images through deep learning</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(169).pdf" style="text-decoration:none;">Identifying MgII Narrow Absorption Lines with Deep Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(170).pdf" style="text-decoration:none;">Application of Machine Learning to the Particle Identification of GAPS</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(168).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(169).pdf" style="text-decoration:none;">SSL Splitting</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(170).pdf" style="text-decoration:none;">Structured Streams: a New Transport Abstraction</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(171).pdf" style="text-decoration:none;">Detecting Exoplanet Transits through Machine Learning Techniques with Convolutional Neural Networks</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(172).pdf" style="text-decoration:none;">Optical Transient Object Classification in Wide Field Small Aperture Telescopes with Neural Networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(173).pdf" style="text-decoration:none;">Identification of RR Lyrae stars in multiband, sparsely-sampled data from the Dark Energy Survey using template fitting and Random Forest classification</a></li>
