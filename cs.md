@@ -24,7 +24,7 @@ for Cryptocurrencies</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(11).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
 
@@ -33,8 +33,8 @@ for Cryptocurrencies</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
 Recovery Refinement</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(16).pdf" style="text-decoration:none;">Argosy: Verifying layered storage
-systems with recovery refinement (PPT)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
+for Data Analytics Clusters</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
   
@@ -48,14 +48,15 @@ in the Asbestos Operating System</a></li>
 POSIX kernel in a high-level language</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(22).pdf" style="text-decoration:none;">Automatic physical inference with information maximising neural networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
+Lifelong Program Analysis and Transformation</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
 Kernel in a High-Level Language [Cody Cutler]</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(25).pdf" style="text-decoration:none;">Lunar Crater Identification via Deep Learning</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(26).pdf" style="text-decoration:none;">Certifying a File System Using
 Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(27).pdf" style="text-decoration:none;">A Differential Approach to
@@ -94,8 +95,8 @@ Concurrent Data Structures</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
 Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(44).pdf" style="text-decoration:none;">ExoGAN: Retrieving Exoplanetary Atmospheres Using Deep Convolutional Generative Adversarial Networks</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(45).pdf" style="text-decoration:none;">Supervised Machine Learning for Analysing Spectra of Exoplanetary Atmospheres</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
                              
@@ -110,7 +111,8 @@ A case study and open problems</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(53).pdf" style="text-decoration:none;">Complex Fully Convolutional Neural Networks for MR Image Reconstruction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(53).pdf" style="text-decoration:none;">The Little Manual of
+API Design</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
 
@@ -118,10 +120,11 @@ A case study and open problems</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(57).pdf" style="text-decoration:none;">Cosmological constraints from noisy convergence maps through deep learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(59).pdf" style="text-decoration:none;">Galaxy Morphology Classification with Deep Convolutional Neural Networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
+for Partitioned Database Systems</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
  
@@ -131,7 +134,7 @@ A case study and open problems</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(64).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
 in Distributed Shared Memory Systems </a></li> 
@@ -164,7 +167,8 @@ for Mobile Personal Devices</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(78).pdf" style="text-decoration:none;">Graph Neural Networks for IceCube Signal Classification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
+of Insertion Sort Algorithm</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
 
 
@@ -177,7 +181,7 @@ a Rooftop Ad Hoc Wireless Network</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(84).pdf" style="text-decoration:none;">Classifying Lensed Gravitational Waves in the Geometrical Optics Limit with Machine Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
@@ -196,7 +200,7 @@ Immune to Passive Traffic Analysis</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(95).pdf" style="text-decoration:none;">Finding high-redshift strong lenses in DES using convolutional neural networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
   
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
   
@@ -238,7 +242,8 @@ Multiple Bottleneck Capacities Along a Path</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(112).pdf" style="text-decoration:none;">Gravitational Wave Denoising of Binary Black Hole Mergers with Deep Learning</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(112).pdf" style="text-decoration:none;">An O(1) algorithm for implementing the LFU
+cache eviction scheme</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
    
@@ -253,7 +258,7 @@ high-performance Web applications</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(119).pdf" style="text-decoration:none;">Classification of Broad Absorption Line Quasars with a Convolutional Neural Network</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(120).pdf" style="text-decoration:none;">The Design and Implementation of a
 High-Performance Active Network Node</a></li>  
@@ -286,7 +291,8 @@ A Recognition-Based Syntactic Foundation</a></li>
    
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(133).pdf" style="text-decoration:none;">Galaxy shape measurement with convolutional neural networks</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
+File and Storage Technologies</a></li>     
    
  
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(134).pdf" style="text-decoration:none;">Providing Asynchronous File I/O
@@ -333,15 +339,15 @@ Filesystem</a></li>
 Latency-sensitive Datacenter Workloads</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(159).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access
-Control for User Data in Untrusted Clouds </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(159).pdf" style="text-decoration:none;">View-Centric Performance Optimization for
+Database-Backed Web Applications </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(163).pdf" style="text-decoration:none;">Baryon density extraction and isotropy analysis of Cosmic Microwave Background using Deep Learning</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(163).pdf" style="text-decoration:none;">The Science of Software and System Design </a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(164).pdf" style="text-decoration:none;">A Measurement Study of Available Bandwidth Estimation Tools</a></li>                              
 
@@ -383,17 +389,19 @@ Rank Aggregation: A Case Study</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(186).pdf" style="text-decoration:none;">Processing Analytical Queries over Encrypted Data</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(187).pdf" style="text-decoration:none;">Multiwavelength cluster mass estimates and machine learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(187).pdf" style="text-decoration:none;">Skip Lists: A Probabilistic Alternative to
+Balanced Trees</a></li>
                              
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(188).pdf" style="text-decoration:none;">Undefined Behavior: What Happened to My Code?</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(189).pdf" style="text-decoration:none;">UserRelative
 Names for Globally Connected Personal Devices</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(190).pdf" style="text-decoration:none;">An Ensemble of Bayesian Neural Networks for Exoplanetary Atmospheric Retrieval</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(190).pdf" style="text-decoration:none;">Google's DeepWeb
+Crawl</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(191).pdf" style="text-decoration:none;">Persistent Personal Names for Globally Connected Mobile Devices  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(192).pdf" style="text-decoration:none;">Anomaly Detection in the Open Supernova Catalog</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(192).pdf" style="text-decoration:none;">Concurrent Data Structures</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(193).pdf" style="text-decoration:none;">Scalable Internet Routing
 on Topology-Independent Node Identities</a></li>
