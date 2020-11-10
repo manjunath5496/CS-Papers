@@ -408,7 +408,7 @@ on Topology-Independent Node Identities</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(194).pdf" style="text-decoration:none;">Unmanaged Internet Protocol: Taming the Edge Network Management Crisis</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(195).pdf" style="text-decoration:none;">UsenetDHT: A Low Overhead Usenet Server</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(195).pdf" style="text-decoration:none;">The A-Z of Programming Languages</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(196).pdf" style="text-decoration:none;">UsenetDHT: A low-overhead design for Usenet</a></li> 
 
@@ -431,11 +431,11 @@ Browser-side Assistance</a></li>
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(204).pdf" style="text-decoration:none;">VXA: A Virtual Architecture for Durable Compressed Archives</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(205).pdf" style="text-decoration:none;">Constraining strongly coupled new physics from cosmic rays with machine learning techniques</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(205).pdf" style="text-decoration:none;">Programming Languages: A Brief Review</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(206).pdf" style="text-decoration:none;">A World Wide Web Without Walls</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(207).pdf" style="text-decoration:none;">Intrusion Recovery for Database-backed Web Applications</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(208).pdf" style="text-decoration:none;">Dos and Don'ts of Client Authentication on the Web</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(208).pdf" style="text-decoration:none;">Understanding Programming Languages</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(209).pdf" style="text-decoration:none;">Dos and Don'ts of Client Authentication on the Web</a></li>
