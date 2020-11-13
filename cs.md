@@ -217,8 +217,7 @@ API integrity and multi-principal modules</a></li>
   
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(102).pdf" style="text-decoration:none;">Extracting and optimizing formally veried code
-for systems programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
