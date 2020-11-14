@@ -8,8 +8,8 @@ Coq Proof Assistant</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(2).pdf" style="text-decoration:none;">An Offline Foundation for
 Online Accountable Pseudonyms</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(3).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(3).pdf" style="text-decoration:none;">A Programming Language
+Based on Classical Logic</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
 Designing Scalable Software for Multicore Processors</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
