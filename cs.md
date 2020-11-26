@@ -462,7 +462,7 @@ LRU Eviction</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(221).pdf" style="text-decoration:none;">Quantum Computer
 Programming</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(220).pdf" style="text-decoration:none;">A Mathematical Theory of Communication</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/CS-Papers/blob/master/cs(222).pdf" style="text-decoration:none;">A Mathematical Theory of Communication</a></li> 
 
  
  </ul>
